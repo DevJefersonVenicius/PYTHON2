@@ -1,5 +1,5 @@
 # Subtração de variaiveis
-valor1 = 100
-valor2 = 37
-subtração = valor1 - valor2
-print(subtração)
+num1 = float(input('Digite o número: '))
+num2 = float(input('Digite o número: '))
+subtraçao = num1 - num2
+print(subtraçao)

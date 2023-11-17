@@ -1,5 +1,5 @@
 # Soma de variaveis
-num1 = 30
-num2 = 40
-num3 = 30
-print("Resultado da soma igual a:", num1 + num2 + num3)
+num1 = float(input('Digite o número: '))
+num2 = float(input('Digite o número: '))
+soma = num1 + num2
+print(soma)

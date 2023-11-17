@@ -1,5 +1,5 @@
 # Divisão de variaveis
-valor1 = 100
-valor2 = 4
-divisão = valor1 / valor2
-print(divisão)
+num1 = float(input('Digite o número: '))
+num2 = float(input('Digite o número: '))
+divisao = num1 / num2
+print(divisao)
